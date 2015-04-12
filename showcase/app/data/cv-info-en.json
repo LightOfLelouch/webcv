@@ -1,0 +1,117 @@
+{
+
+  "general" : [ "Professional",
+
+    "Objective :",
+
+    "Network Administrator",
+
+    {"name": "Ulysse RICCIO"},
+
+    {"address": "6 rue du congrès"},
+
+    {"phone": "Tel : 06 21 87 20 13"},
+
+    {"e_mail": "Email : winixpro@hotmail.fr"}
+
+  ],
+
+  "skills" : ["SKILLS",
+
+    "Network Understanding and Optimisation",
+
+    "Setting up of technical specifications",
+
+    "Networks Configuration Equipment",
+
+    "Implementation and use of Operating Systems",
+
+    "Computer Programming",
+
+    "Algorithimic",
+
+    "bash",
+
+    "c",
+
+    "Modulation /Démodulating",
+
+    "analog",
+
+    "numerical",
+
+    "Digital Measuring Devices Use",
+
+    "Oscilloscope",
+
+    "Spectrum Analyser"
+
+  ],
+
+  "formation": ["EDUCATION",
+
+    "September 2014",
+
+    "Preparation of a computer engineer diploma at Polytech School",
+
+    "June 2012",
+
+    "Two-year degree in Networks and Telecoms at Sophia-Antipolis University"
+
+  ],
+
+  "experience": ["WORK EXPERIENCE",
+
+    "2006",
+
+    "Training at WINIX Nice, Stock Exchange Software Development Companyv",
+
+    "Understanding and Analysis of the structure and organisation of the Company",
+
+    "2012",
+
+    "Training at RSI Valbonne, Social Box of the self employed people",
+
+    "Refreshing of intranet tools which gather and present technical indicators on components of the information system"
+
+  ],
+
+  "language": ["COMPLEMENTARY INFORMATION",
+
+    "FOREIGN LANGUAGES",
+
+    "English : Fluent",
+
+    "Spanish : Basic Knowledge"
+
+  ],
+
+  "hobby_informatical": ["OTHER SKILLS 2006-2014",
+
+    "Linux (Daily use of  Ubuntu)",
+
+    "Safety (Basic Use of backtrack 4)",
+
+    "Programming : Bash , Python , C++, a little Assembly )",
+
+    "Web Site Design (html, css , php, mysql)",
+
+    "Virtualisation (virtual box)"
+  ],
+
+  "hobby": ["HOBBIES",
+
+    "2006– 2014 : Nice Chess Club Member",
+
+    "Selected to French Chess Championship at Aix Les Bains in 2007 (55th ward)",
+
+    "French chess Champioship Participant at Nîmes in 2009",
+
+    "2008– 2010 : AIKIDO Club Member in the old city of Nice",
+
+    "2009 : Silver ski graduation (silver arrow, silver chamois, silver rocket",
+
+    "2008-2014 : Passionate about video games and english mangas"
+
+  ]
+}

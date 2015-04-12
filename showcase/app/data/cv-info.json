@@ -1,0 +1,121 @@
+{
+
+  "general" : [ "Mon projet",
+
+    "professionnel devenir",
+
+    "administrateur réseaux",
+
+    {"name": "Ulysse RICCIO"},
+
+    {"address": "6 rue du congrès"},
+
+    {"phone": "Tel : 06 21 87 20 13"},
+
+    {"e_mail": "Email : winixpro@hotmail.fr"}
+
+  ],
+
+  "skills" : ["DOMAINES DE COMPETENCES",
+
+  "Compréhension et optimisation d'un réseau",
+
+    "élaboration du cahier des charges",
+
+    "Configuration de l'équipement réseaux",
+
+    "Mise en œuvre et utilisation des systèmes d'exploitations",
+
+    "Programmation informatique",
+
+    "Algorithimique",
+
+    "bash",
+
+    "c",
+
+    "Modulation /Démodulation",
+
+    "analogique",
+
+    "numérique",
+
+    "Utilisation des appareils de mesure",
+
+    "Oscilloscope",
+
+    "Analyseur de spectre"
+
+  ],
+
+  "formation": ["FORMATIONS",
+
+    "Septembre 2014",
+
+    "Préparation du diplôme d'ingénieur en informatique à l'école Polytech de Sophia-Antipolis",
+
+    "Juin 2012",
+
+    "Obtention du DUT Réseaux Télécommunications à l’IUT de Nice Sophia Antipolis",
+
+    "Juin 2012",
+
+    "Obtention du Baccalauréat S option Maths au lycée Masséna Nice"
+
+    ],
+
+  "experience": ["EXPERIENCE PROFESSIONNELLE",
+
+  "2006",
+
+    "Stage à la société WINIX, Société informatique de développement de logiciels de bourse",
+
+  "Analyse de la structure de la société et des différents postes de travail",
+
+    "2012",
+
+    "Stage au RSI, Caisse sociale et de retraite pour les travailleurs Indépendants à Valbonne",
+
+    "Actualisation d'outils intranet de collecte et de présentation d'indicateurs techniques sur des composants du système d'information"
+
+],
+
+  "language": ["INFORMATIONS COMPLEMENTAIRES",
+
+    "LANGUES",
+
+  "Anglais : courant",
+
+  "Espagnol : acquisition des notions de base"
+
+],
+
+  "hobby_informatical": ["LOISIR INFORMATIQUE 2006-2014",
+
+  "linux (utilisation au quotidien d'ubuntu)",
+
+  "sécurité (utilisation basique backtrack 4)",
+
+  "programmation (bash , python , c++, un peu d'assembleur )",
+
+  "conception de site web (html, css , php, mysql)",
+
+  "virtualisation (virtual box)"
+],
+
+  "hobby": ["CENTRES D’INTERETS",
+
+    "2006– 2014 : Membre du club d’échecs de Nice",
+
+    "Sélectionné au championnat de France à Aix Les Bains en 2007 (55 ème pupille)",
+
+    "Participant au championnat de France à Nîmes en 2009",
+
+    "2008– 2010 : Pratique de l’AIKIDO dans un club du Vieux Nice",
+
+    "2009 : ski d'argent (flèche d'argent, chamois d'argent, fussée d'argent",
+
+    "2008-2014 : passionné de jeux vidéo et de mangas en anglais"
+
+  ]
+}
